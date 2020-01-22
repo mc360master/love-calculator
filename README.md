@@ -1,3 +1,3 @@
 # love-calculator
  lol
-https://github.com/mc360master/love-calculator/tree/master
+[![Run on Repl.it](https://repl.it/badge/github/mc360master/love-calculator)](https://repl.it/github/mc360master/love-calculator)
