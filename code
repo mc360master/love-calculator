@@ -1,0 +1,13 @@
+import random
+
+print('I will calculate your loaf')
+name1 = input('Enter first name of loaf, like the first person you want to calculate')
+name2 = input('Enter second name of person of loaf, no thte last name of first person, seconds person')
+if name1 == ('matt g' or 'any boy under 5'):
+    print('I sense a strong bond, of 100% loaf')
+elif name2 == ('Scotty' or 'Matt C'):
+    print('I sense a strong bond of 100% loaf')
+else:
+    random=random.randint(0,100)
+    print('The loaf between ' + name1 + ' and ' + name2 + ' is')
+    print(random, '%')
